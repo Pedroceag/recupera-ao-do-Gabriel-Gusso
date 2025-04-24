@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(69, 69, 69);
+}
+
+div {
+ text-align: center;
+
+}
+
+.foto {
+    width: 30%;
+
+}
+
+h1 {
+    color: aqua;
+    font-size: 70px;
+    text-align: center;
+
+}
+
+li {
+    color: aqua;
+    text-align: center;
+    font-size: 40px;
+
+
+}
+
+ul {
+    margin-top: 60px;
+
+
+
+}
